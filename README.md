@@ -15,3 +15,9 @@ Three sticks of glue were used throughout the model as an adhesive.
 Ten inches of velcro were used to attach the two pieces of the cast.
 To create a hand sleeve, eight ft2 of stretch fabric was used. To house the Arduino, a two-piece block was 3D printed. 
 To build ARMAX hardware part, a Sparkfun Redboard, a 3-axis gyro sensor, an HC-05 Bluetooth module, a 0.96-inch OLED screen, a breadboard, a speaker, a battery, and several jumper wires were used.
+
+## Circuit Diagram
+![image](https://github.com/liyteku/EG-1004-ARMAX/blob/main/Pictures/Armax.png)
+
+## Code Flowchart
+![image](https://github.com/liyteku/EG-1004-ARMAX/blob/main/Pictures/Code%20Flowchart.png)
